@@ -24,6 +24,3 @@ The dataset consists of labeled flower images split into training, validation, a
 
 ## Results
 The trained model achieves strong accuracy on the test set and can predict the top 5 most likely flower classes for a given image.
-
-## How to Run
-1. Install dependencies:
