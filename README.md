@@ -20,7 +20,7 @@ The model uses **transfer learning with VGG16** to classify images of flowers in
 - Matplotlib
 
 ## Dataset
-The dataset consists of labeled flower images split into training, validation, and test sets.
+The dataset consists of labeled flower images split into training, validation, and test sets. Check it out [here] (https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
 
 ## Results
 The trained model achieves strong accuracy on the test set and can predict the top 5 most likely flower classes for a given image.
